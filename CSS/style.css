@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{margin: 0; padding: 0; }
+
+body{background-image: url("../IMG/fondo2.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; }
+
+.wrapper{background-color: rgba(126,156,182,0.79); wide: 1000px; height: 300px; margin-left: auto; margin-right: auto; text-align: center; padding: 30px; box-sizing: border-box; }
+
+.footer{background-color: cadetblue;width: 1000px; height: 60px; color: whitesmoke; line-height: 60px; margin-left: auto; margin-right: auto; text-align: center; }
+
+.nav{background-color: cadetblue; width: 1000px; height: 170px; color: whitesmoke; text-align: center; margin-left: auto; margin-right: auto; }
+
+.nav ul{list-style-type: none; }
+
+.nav li{width: 200px; float: left;}
